@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa150c08dc036140b7f85df1870ac15, type: 3}
+  m_Name: Sphere
+  m_EditorClassIdentifier: 
+  <ButtonPrefab>k__BackingField: {fileID: 1490909379971682522, guid: 8218e21bcbfa9024ab0f3a28960531d8, type: 3}
+  <Sprite>k__BackingField: {fileID: 21300000, guid: 28aee7f5010d786499627207cf0bee12, type: 3}
+  <ObjectPrefab>k__BackingField: {fileID: -5775979468353037314, guid: d59164b69cfe0614092117929f983f26, type: 3}
